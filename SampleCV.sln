@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCV", "StatikMvc\SampleCV.csproj", "{BDAA8821-5579-433A-ADC9-63C5A9B4787A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAA8821-5579-433A-ADC9-63C5A9B4787A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAA8821-5579-433A-ADC9-63C5A9B4787A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAA8821-5579-433A-ADC9-63C5A9B4787A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAA8821-5579-433A-ADC9-63C5A9B4787A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0375778-2A80-4739-AA45-AAAA968A302E}
+	EndGlobalSection
+EndGlobal
